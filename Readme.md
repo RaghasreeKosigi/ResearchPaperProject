@@ -10,7 +10,6 @@ fine-tuned retriever, **LangChain LCEL pipeline**, **FastAPI backend**,
 **React frontend** with PDF viewer + chunk highlighting, and **Docker**.
 Generation runs on **Cloudflare Workers AI** (`@cf/mistralai/mistral-small-3.1-24b-instruct`).
 
-![Screenshot](screenshots/ss.png)
 ![Screenshot 2](screenshots/ss2.png)
 
 Measured over **125 questions across 5 papers** (retrieval-only, no LLM):
